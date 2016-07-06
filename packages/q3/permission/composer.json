@@ -1,0 +1,11 @@
+{
+    "name": "q3/permission",
+    "authors": [
+        {
+            "name": "forakinte",
+            "email": "forakinte@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
